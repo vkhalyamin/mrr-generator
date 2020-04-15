@@ -6,7 +6,8 @@
 
 ## Скриншоты
 
-![main_window](/screenshots/main_window.png)
+![window1](/screenshots/window1.png)
+![window2](/screenshots/window2.png)
 
 ## Автор
 
