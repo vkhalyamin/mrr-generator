@@ -1,2 +1,14 @@
-# mrz
-Machine-readable zone generator for russian passport 
+# Формирование машиночитаемой записи в паспорте РФ
+
+## О программе
+
+Данная программа предназначения для формирования машиночитаемой зоны в паспорте гражданина Российской Федерации.
+
+## Автор
+
+[Khalyamin Vladimir](https://github.com/vkhalyamin) &ndash; vkahlyamin@protonmail.com
+
+## Лицензия
+
+Программа распространяется под свободной лицензией MIT. Подробности в файле LICENSE.
+
