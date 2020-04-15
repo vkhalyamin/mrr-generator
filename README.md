@@ -4,6 +4,10 @@
 
 Данная программа предназначения для формирования машиночитаемой зоны в паспорте гражданина Российской Федерации.
 
+## Скриншоты
+
+![main_window](/screenshots/main_window.png)
+
 ## Автор
 
 [Khalyamin Vladimir](https://github.com/vkhalyamin) &ndash; vkahlyamin@protonmail.com
