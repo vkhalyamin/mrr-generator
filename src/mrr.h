@@ -1,5 +1,5 @@
-#ifndef MRR_H
-#define MRR_H
+#ifndef MRR_H_SENTRY
+#define MRR_H_SENTRY
 
 #include <QtCore>
 
@@ -40,4 +40,4 @@ private:
     QString secondLine;
 };
 
-#endif // MRR_H
+#endif // MRR_H_SENTRY
